@@ -1,0 +1,8 @@
+{
+  "name": "ai-pr-review",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.0.0",
+    "@octokit/rest": "^20.0.0"
+  }
+}
